@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_location">select_location</string>
+    <string name="title_activity_outdoor_nav">outdoor_nav</string>
+    <string name="title_activity_indoor_nav">indoor_nav</string>
+    <string name="title_activity_end_nav">end_nav</string>
+    <string name="title_activity_gpsstuff">GPSstuff</string>
+    <string name="title_activity_start_draw">StartDraw</string>
+
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="OU_buildings">
+        <item>BUILDINGS</item>
+        <item>ATH - Athletics Center</item>
+        <item>DHE - Dodge Hall of Engineering</item>
+        <item>EH - Elliott Hall</item>
+        <item>GHC - Graham Health Center</item>
+        <item>HAM - Hamlin Hall</item>
+        <item>HHS - Hannah Hall of Science</item>
+        <item>HHB - Human Health Building</item>
+        <item>KL - Kresge Library</item>
+        <!--<item>Meadow Brook Theatre/Ou Art Gallery</item>-->
+        <item>NFH - North Foundation Hall</item>
+        <item>OC - Oakland Center</item>
+        <item>ODH - O’Dowd Hall</item>
+        <item>PH - Pawley Hall</item>
+        <item>REC - Recreation Center</item>
+        <item>SEB - Science and Engineering Building</item>
+        <item>SFH - South Foundation Hall</item>
+        <item>VBH - Vandenberg Hall</item>
+        <item>VAR - Varner Hall</item>
+        <item>WH - Wilson Hall</item>
+    </string-array>
+
+    <string-array name="Dodge_rooms">
+        <item>DHE-1st floor rooms</item>
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>103A</item>
+        <item>104</item>
+        <item>105</item>
+        <item>105A</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+        <item>109</item>
+        <item>110</item>
+        <item>111</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>120A</item>
+        <item>121</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>127</item>
+        <item>127A</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>131</item>
+        <item>132</item>
+        <item>133</item>
+        <item>134</item>
+        <item>135</item>
+        <item>136</item>
+        <item>136A</item>
+        <item>137</item>
+        <item>138</item>
+        <item>139</item>
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>147</item>
+        <item>148</item>
+        <item>149</item>
+        <item>150</item>
+        <item>151</item>
+        <item>152</item>
+        <item>152A</item>
+        <item>153</item>
+        <item>154</item>
+        <item>155</item>
+        <item>155A</item>
+        <item>156</item>
+        <item>157</item>
+        <item>157A</item>
+        <item>158</item>
+        <item>159</item>
+        <item>159A</item>
+        <item>160</item>
+        <item>161</item>
+        <item>162</item>
+        <item>163</item>
+        <item>163A</item>
+        <item>164</item>
+        <item>165</item>
+        <item>166</item>
+        <item>167</item>
+        <item>168</item>
+        <item>169</item>
+        <item>170</item>
+        <item>171</item>
+        <item>200</item>
+        <item>201</item>
+        <item>203</item>
+
+    </string-array>
+
+    <!--<string-array name="DHE_floor_plans">
+        <item>DHE floor maps</item>
+        <item>Floor 1</item>
+        <item>Floor 2</item>
+        <item>Floor 3</item>
+        <item>Floor 4</item>
+    </string-array>-->
+
+
+</resources>
+
+
+
+
+
